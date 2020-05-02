@@ -1,0 +1,24 @@
+{
+  "name": "READMEGenerator",
+  "version": "1.0.0",
+  "description": "Unit 09 Node.js and ES6+ Homework: Good README Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Macymo/READMEGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Macymo/READMEGenerator/issues"
+  },
+  "homepage": "https://github.com/Macymo/READMEGenerator#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.1.0"
+  }
+}
