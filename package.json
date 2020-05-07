@@ -1,5 +1,5 @@
 {
-  "name": "READMEGenerator",
+  "name": "static-site",
   "version": "1.0.0",
   "description": "Unit 09 Node.js and ES6+ Homework: Good README Generator",
   "main": "index.js",
