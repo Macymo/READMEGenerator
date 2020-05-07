@@ -1,6 +1,6 @@
 function generateMarkdown(data) {
   return `
-  
+	![GitHub](https://img.shields.io/github/license/Macymo/READMEGenerator)
 # ${data.title}
 
 ## Description 

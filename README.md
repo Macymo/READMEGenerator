@@ -1,30 +1,30 @@
 
+	![GitHub](https://img.shields.io/github/license/Macymo/READMEGenerator)
 # README
 
 ## Description 
-a READ ME
+A ReadMe Generator
 
 ## Table of Contents
-Macymo
+
 
 
 ## Installation
-no
+npm install
 
 ## Tests
-te
+tests
 
 ## Usage
-af
+n/a
 
 ## License
-no
+N/A
 
 ## Contributing
-fg
+n/a
 
-##Questions
+## Questions
 Macymo
-null
 https://avatars3.githubusercontent.com/u/59153195?v=4
 
