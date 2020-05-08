@@ -32,6 +32,7 @@ ${data.contributions}
 
 ## Questions
 ${data.username}
+
 ![avatar](${data.picture})
 `;
 }

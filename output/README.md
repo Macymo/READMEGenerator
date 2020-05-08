@@ -1,9 +1,9 @@
 
-	![GitHub](https://img.shields.io/badge/license-n/a-blue)
-# README
+	![GitHub](https://img.shields.io/badge/license-MIT-blue)
+# README GENERATOR
 
 ## Description
-Generates a ReadMe
+Generates a README.md
 
 ## Table of Contents
 
@@ -18,17 +18,18 @@ Generates a ReadMe
 ``` npm install ```
 
 ## Tests
-``` test ```
+``` npm test ```
 
 ## Usage
 n/a
 
 ## License
-n/a
+MIT
 
 ## Contributing
-n/a
+Contact Me
 
 ## Questions
 Macymo
+
 ![avatar](https://avatars3.githubusercontent.com/u/59153195?v=4)

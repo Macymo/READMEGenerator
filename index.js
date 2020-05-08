@@ -21,15 +21,18 @@ const questions = [{
   },
     {
     message: "What kind of license should your project have?",
-    name: "license"
+    name: "license",
+    default: "MIT"
   },
     {
     message: "What command should be run to install dependencies?",
-    name: "installation"
+    name: "installation",
+    default: "npm install"
   },
     {
     message: "What command should be run to run tests?",
-    name: "tests"
+    name: "tests",
+    default: "npm test"
   },
     {
     message: "What does the user need to know about using the repo?",
