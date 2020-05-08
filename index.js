@@ -45,28 +45,22 @@ const questions = [{
 async function writeToFile(fileName, data) {
     try {
       await writeFileAsync(fileName, data);
+      console.log("ReadMe successfully written");
     }
     catch (err) {
       return err
     }
   };
 
-
-
 function init() {
     inquirer
   .prompt(questions)
   .then(function(response) {
     api.getUser(response.username).then(function(data){
-        // console.log(response);
-    response.email = data.data.email;
-    response.picture = data.data.avatar_url;
-    // console.log(response);
-    const apiData = response
-    console.log(apiData)
-    const markdownData = generateMarkdown(apiData);
-    console.log(markdownData)
-      writeToFile("README.md", markdownData);
+      response.email = data.data.email;
+      response.picture = data.data.avatar_url;
+      const markdownData = generateMarkdown(response);
+      writeToFile("output/README.md", markdownData);
     });
   });
   

@@ -1,25 +1,25 @@
 function generateMarkdown(data) {
   return `
-	![GitHub](https://img.shields.io/github/license/Macymo/READMEGenerator)
+	![GitHub](https://img.shields.io/badge/license-${data.license}-blue)
 # ${data.title}
 
-## Description 
+## Description
 ${data.description}
 
 ## Table of Contents
 
-* [License](##license)
-* [Installation](##installation)
-* [Tests](##tests)
-* [Usage](##usage)
-* [Contributing](##contributions)
-* [Questions](##questions)
+* [License](#license)
+* [Installation](#installation)
+* [Tests](#tests)
+* [Usage](#usage)
+* [Contributing](#contributions)
+* [Questions](#questions)
 
 ## Installation
-> ${data.installation}
+\`\`\` ${data.installation} \`\`\`
 
 ## Tests
-${data.tests}
+\`\`\` ${data.tests} \`\`\`
 
 ## Usage
 ${data.usage}
@@ -32,8 +32,7 @@ ${data.contributions}
 
 ## Questions
 ${data.username}
-${data.picture}
-
+![avatar](${data.picture})
 `;
 }
 
