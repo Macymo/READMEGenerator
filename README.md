@@ -1,25 +1,30 @@
 
 	![GitHub](https://img.shields.io/github/license/Macymo/READMEGenerator)
-# README
+# READMEGenerator
 
 ## Description 
-A ReadMe Generator
+This will generate a ReadMe
 
 ## Table of Contents
 
-
+* [License](##license)
+* [Installation](##installation)
+* [Tests](##tests)
+* [Usage](##usage)
+* [Contributing](##contributions)
+* [Questions](##questions)
 
 ## Installation
-npm install
+> npm install
 
 ## Tests
-tests
+test
 
 ## Usage
 n/a
 
 ## License
-N/A
+n/a
 
 ## Contributing
 n/a

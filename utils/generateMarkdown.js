@@ -8,10 +8,15 @@ ${data.description}
 
 ## Table of Contents
 
-
+* [License](##license)
+* [Installation](##installation)
+* [Tests](##tests)
+* [Usage](##usage)
+* [Contributing](##contributions)
+* [Questions](##questions)
 
 ## Installation
-${data.installation}
+> ${data.installation}
 
 ## Tests
 ${data.tests}
