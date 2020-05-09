@@ -1,6 +1,7 @@
 
-	![GitHub](https://img.shields.io/badge/license-MIT-blue)
-# README GENERATOR
+![GitHub](https://img.shields.io/badge/license-MIT-blue)
+  
+# ReadMeGenerator
 
 ## Description
 Generates a README.md
