@@ -1,6 +1,7 @@
 function generateMarkdown(data) {
   return `
-	![GitHub](https://img.shields.io/badge/license-${data.license}-blue)
+  ![GitHub](https://img.shields.io/badge/license-${data.license}-blue)
+  
 # ${data.title}
 
 ## Description
@@ -34,7 +35,7 @@ ${data.contributions}
 ${data.username}
 
 ![avatar](${data.picture})
-`;
-}
+`
+};
 
 module.exports = generateMarkdown;
