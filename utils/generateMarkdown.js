@@ -13,7 +13,7 @@ ${data.description}
 * [Installation](#installation)
 * [Tests](#tests)
 * [Usage](#usage)
-* [Contributing](#contributions)
+* [Contributing](#contributing)
 * [Questions](#questions)
 
 ## Installation

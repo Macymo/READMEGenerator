@@ -1,7 +1,7 @@
 
 ![GitHub](https://img.shields.io/badge/license-MIT-blue)
   
-# ReadMeGenerator
+# README GENERATOR
 
 ## Description
 Generates a README.md
@@ -12,7 +12,7 @@ Generates a README.md
 * [Installation](#installation)
 * [Tests](#tests)
 * [Usage](#usage)
-* [Contributing](#contributions)
+* [Contributing](#contributing)
 * [Questions](#questions)
 
 ## Installation
